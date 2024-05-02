@@ -1,4 +1,4 @@
-import { TokenInfo, TokenList } from '@uniswap/token-lists'
+import { TokenInfo, TokenList } from 'smartswap-token-lists'
 import { readFileSync, existsSync } from 'fs'
 import axios from 'axios'
 import { ChainId } from './constants/chainId'
